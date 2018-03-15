@@ -3,3 +3,5 @@
 /baike_spider/output.html
 /*/__pycache__/
 /venv/
+/byr/*.json
+/byr/experiment/
